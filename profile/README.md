@@ -4,13 +4,13 @@ Publications, formal modelling, and applied research in computer science.
 
 ## Focus Areas
 
-`formal methods` · `TIPE` · `cryptography research` · `formal verification` · `publications`
+`publications` · `cryptography research` · `experiments` · `formal methods` · `formal verification` 
 
 ## Structure
 
 | Domain | Description |
 |---|---|
-| TIPE | Travaux d'Initiative Personnelle Encadrés |
+| Experiments | Physics, testbed, honeypot, proof of concept|
 | Formal Methods | Logic, automata, model checking |
 | Cryptography | Protocol analysis, proofs, implementations |
 | Publications | Papers, reports, academic writing |
